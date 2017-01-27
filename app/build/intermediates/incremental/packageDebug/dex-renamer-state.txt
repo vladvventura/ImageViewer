@@ -1,0 +1,7 @@
+#Fri Jan 27 13:34:03 EST 2017
+base.0=D\:\\Documents\\Work\\Android\\ImageViewer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a89a2bc95ce79650e389a01a6bfa95fca5309427
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Documents\\Work\\Android\\ImageViewer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_68f22dff2cb8de031a4100f671b7428087070f0f\\classes.dex
+base.1=D\:\\Documents\\Work\\Android\\ImageViewer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_68f22dff2cb8de031a4100f671b7428087070f0f
+file.0=D\:\\Documents\\Work\\Android\\ImageViewer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a89a2bc95ce79650e389a01a6bfa95fca5309427\\classes.dex
