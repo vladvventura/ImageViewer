@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">ImageViewer</string>
-    <string name="sample_images">Sample Images</string>
-    <string name="phone_images">Phone Images</string>
-    <string name="picasso_images">Picasso Images</string>
-</resources>

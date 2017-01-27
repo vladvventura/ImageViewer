@@ -1,2 +1,0 @@
-# ImageViewer
-android imageviewer
